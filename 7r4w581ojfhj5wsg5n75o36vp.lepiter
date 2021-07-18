@@ -1,0 +1,224 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-18T10:18:46.589747+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-18T10:18:46.589747+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "55jlM8ODDQCbnhjyBnj4gg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Federated Wiki sites share pages circulating within a creative commons. A single-page browser application can read from many sites at once and save changes in that browser. Users who host their own sites can login there to have their edits shared back to the federation as they edit."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-18T10:26:07.038263+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-18T10:26:07.038263+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "hKsmT8ODDQCbqovIBnj4gg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[sites.fed.wiki.org](http://sites.fed.wiki.org/view/welcome-visitors/view/sitesfedwikiorg) — Catalog of federated wiki sites with domain names for page titles and brief descriptions tuned for search.\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-18T10:26:07.997651+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-18T10:26:37.005846+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "16FSNsODDQCbn7nhBnj4gg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "A community of open-source developers maintain both the client-side and server-side applications most frequently used to browse and edit pages. Pages themselves are composed of paragraph-sized items of various kinds. This same community provides a core set of plugins for rich content pages and a variety of experimental plugins that push boundaries of web computing. [github](https://github.com/fedwiki)"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-18T10:26:47.752054+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-18T10:26:59.716514+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "TYmKUcODDQCbwDLqBnj4gg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "We publish federated wiki software as a Node.js package ready to run on a variety of platforms. This is usefully run on a personal laptop or an industrial server in the cloud. Most people get started by joining a community and launching sites and/or servers with their help. The server software supports a multi-tenant \"farm\" option useful for small groups or heavy users. [npm](https://www.npmjs.com/package/wiki)"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-18T10:27:08.409798+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-18T10:27:08.409798+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "x43BUsODDQCbx77jBnj4gg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Ward Cunningham started the federation in 2011 with a workshop project called Smallest Federated Wiki or simply SFW. The data visualization and sharing mechanisms were supported by Nike's Sustainable Business and Innovation group. Early history has been documented in a series of video screencasts. Search for \"video\"."
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-07-18T10:18:29.729968+02:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-07-18T10:18:38.273895+02:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Federated Wiki"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "95c1e433-c383-0d00-9b9d-f7d20678f882"
+	}
+}
