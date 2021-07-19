@@ -66,7 +66,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-18T10:26:07.038263+02:00"
+						"dateAndTimeString" : "2021-07-18T10:33:53.676041+02:00"
 					}
 				},
 				"uid" : {
@@ -76,7 +76,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[sites.fed.wiki.org](http://sites.fed.wiki.org/view/welcome-visitors/view/sitesfedwikiorg) — Catalog of federated wiki sites with domain names for page titles and brief descriptions tuned for search.\n"
+				"string" : "[sites.fed.wiki.org](http://sites.fed.wiki.org/view/welcome-visitors/view/sitesfedwikiorg) — Catalog of federated wiki sites with domain names for page titles and brief descriptions tuned for search."
 			},
 			{
 				"__type" : "textSnippet",
