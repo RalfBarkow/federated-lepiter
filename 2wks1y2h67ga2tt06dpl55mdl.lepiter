@@ -215,7 +215,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-18T14:06:42.875655+02:00"
+						"dateAndTimeString" : "2021-07-20T07:46:58.343292+02:00"
 					}
 				},
 				"uid" : {
@@ -225,7 +225,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Then, create some pages or rsync your `.wiki/pages`"
+				"string" : "Then, create some local pages or rsync your remote `.wiki/pages`:"
 			},
 			{
 				"__type" : "textSnippet",
@@ -840,7 +840,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-20T07:39:18.518485+02:00"
+						"dateAndTimeString" : "2021-07-20T07:47:39.935786+02:00"
 					}
 				},
 				"uid" : {
@@ -850,7 +850,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "#Construct an export.json file from LePages …"
+				"string" : "#Construct an export.json file from LePages"
 			},
 			{
 				"__type" : "textSnippet",
