@@ -44,6 +44,43 @@
 							"code" : "Wiki"
 						},
 						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2021-07-20T18:03:16.010088+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2021-07-20T18:05:06.674647+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "nsip7fGDDQCIZKs3D0sZSA=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "I am `Wiki`, a [Federated Wiki](http://fed.wiki.org/view/welcome-visitors). [github](https://github.com/fedwiki)"
+						},
+						{
 							"__type" : "changesSnippet",
 							"children" : {
 								"__type" : "snippets",
@@ -57,7 +94,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2021-07-20T17:22:48.482461+02:00"
+									"dateAndTimeString" : "2021-07-20T18:15:02.896556+02:00"
 								}
 							},
 							"editEmail" : {
@@ -68,15 +105,15 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2021-07-20T17:22:48.482461+02:00"
+									"dateAndTimeString" : "2021-07-20T18:15:02.896556+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "3D4JXfGDDQCIaMfvD0sZSA=="
+								"uidString" : "I5zcF/KDDQCIUKo+D0sZSA=="
 							},
 							"previewHeight" : 200,
-							"fileName" : "attachments/49nvkhkz6govqidc3hucdp792/wiki.ombu"
+							"fileName" : "attachments/49nvkhnlxdne1ioeyc8scooyx/wiki.ombu"
 						}
 					]
 				},

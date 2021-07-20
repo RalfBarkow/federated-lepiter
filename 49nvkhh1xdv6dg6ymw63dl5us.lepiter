@@ -18,6 +18,43 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-20T18:08:24.264456+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-20T18:08:24.264456+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "feMOAPKDDQCIcF0RD0sZSA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "I am `Wiki`, a [Federated Wiki](http://fed.wiki.org/view/welcome-visitors). [github](https://github.com/fedwiki)"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
 						"dateAndTimeString" : "2021-07-20T10:45:39.773662+02:00"
 					}
 				},
