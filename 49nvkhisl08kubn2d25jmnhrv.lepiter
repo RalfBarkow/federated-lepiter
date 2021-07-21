@@ -114,6 +114,40 @@
 							},
 							"previewHeight" : 200,
 							"fileName" : "attachments/49nvkhnlxdne1ioeyc8scooyx/wiki.ombu"
+						},
+						{
+							"__type" : "pharoSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2021-07-21T23:50:50.681406+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2021-07-21T23:50:51.421681+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "lMia5gqEDQCJANgLDsV96g=="
+							},
+							"code" : "Wiki"
 						}
 					]
 				},
