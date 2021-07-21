@@ -1,0 +1,187 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-20T23:27:51.456111+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-21T07:39:17.031544+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "hgWOdvaDDQCIeaI9D0sZSA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[Here](https://matrix.to/#/!ORfrUEFeWFcHAMLFLr:matrix.org/$162679494022EUoDj:autonomic.zone?via=matrix.org&via=dreyeck.freedombox.rocks)'s a different experiment that'll help build some understanding of the mechanisms."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-20T23:27:52.267871+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-20T23:27:52.267871+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "L7L6YPaDDQCIdcm4D0sZSA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "https://matrix.to/#/!ORfrUEFeWFcHAMLFLr:matrix.org/$162679494022EUoDj:autonomic.zone?via=matrix.org&via=dreyeck.freedombox.rocks"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-20T23:21:50.719892+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-20T23:21:50.719892+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "+OTyXvaDDQCIdP7uD0sZSA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "mkdir -p ~/tmp/friends-farm/.wiki\ncd ~/tmp/friends-farm\ncat > .wiki/config.json <<EOF\n{\n  \"admin\": \"this is many words\",\n  \"farm\": true,\n  \"cookieSecret\": \"askdfjpqoiwertposirftukpsogdigfyupoirdfktupoiakr\",\n  \"secure_cookie\": false,\n  \"security_type\": \"friends\"\n}\nEOF\nwiki --data=./.wiki --config=./.wiki/config.json\n"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-20T23:27:31.317905+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-20T23:27:31.317905+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "osFPdfaDDQCIePlaD0sZSA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "Visit http://3wc.localhost:3000 with your browser.\nNotice that wiki has created ~/tmp/friends-farm/.wiki/3wc.localhost.\nClick the lock icon in the browser\nNotice that wiki has generated a name and password in ~/tmp/friends-farm/.wiki/32c.localhost/status/owner.json"
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-07-20T23:21:15.358658+02:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-07-20T23:21:31.957725+02:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "config.json"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "3821f25e-f683-0d00-8873-bd730f4b1948"
+	}
+}
