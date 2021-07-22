@@ -80,40 +80,6 @@
 				"string" : "[wiki](https://wiki.ralfbarkow.ch/view/welcome-visitors/view/json-schema)"
 			},
 			{
-				"__type" : "pharoSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-21T08:34:57.869248+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-21T08:43:01.20679+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "92kpG/6DDQCIn54zD0sZSA=="
-				},
-				"code" : "WiModel"
-			},
-			{
 				"__type" : "changesSnippet",
 				"children" : {
 					"__type" : "snippets",
