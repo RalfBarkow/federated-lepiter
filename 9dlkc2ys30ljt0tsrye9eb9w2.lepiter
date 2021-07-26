@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-20T18:08:24.264456+02:00"
+						"dateAndTimeString" : "2021-07-26T17:02:44.159767+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,54 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-20T18:08:24.264456+02:00"
+						"dateAndTimeString" : "2021-07-26T17:03:01.273107+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "feMOAPKDDQCIcF0RD0sZSA=="
+					"uidString" : "U9Rxx2mEDQCt56YSDsdmng=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "I am `Wiki`, a [Federated Wiki](http://fed.wiki.org/view/welcome-visitors). [github](https://github.com/fedwiki)"
+				"string" : "See [[Functional Specification]]"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-26T17:14:18.413516+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-26T17:14:19.663852+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "UIeP8WmEDQCtvfSsDsdmng=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[[self]]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -65,7 +102,7 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2021-07-20T10:45:39.773662+02:00"
+												"dateAndTimeString" : "2021-07-26T17:13:18.853426+02:00"
 											}
 										},
 										"editEmail" : {
@@ -76,17 +113,17 @@
 											"__type" : "time",
 											"time" : {
 												"__type" : "dateAndTime",
-												"dateAndTimeString" : "2021-07-20T10:45:39.773662+02:00"
+												"dateAndTimeString" : "2021-07-26T17:13:19.986302+02:00"
 											}
 										},
 										"uid" : {
 											"__type" : "uid",
-											"uidString" : "/Y8s0OuDDQCIEqmAD0sZSA=="
+											"uidString" : "War87WmEDQCts6JpDsdmng=="
 										},
 										"paragraphStyle" : {
 											"__type" : "textStyle"
 										},
-										"string" : "git@github.com:RalfBarkow/federated-lepiter.git"
+										"string" : "[[config.json]]"
 									}
 								]
 							},
@@ -98,7 +135,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2021-07-26T16:48:46.944758+02:00"
+									"dateAndTimeString" : "2021-07-26T17:09:08.518502+02:00"
 								}
 							},
 							"editEmail" : {
@@ -109,17 +146,17 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2021-07-26T16:49:20.059771+02:00"
+									"dateAndTimeString" : "2021-07-26T17:09:09.954292+02:00"
 								}
 							},
 							"uid" : {
 								"__type" : "uid",
-								"uidString" : "9UFFlmmEDQCt2RWYDsdmng=="
+								"uidString" : "lNcZ32mEDQCtm7lkDsdmng=="
 							},
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "Code > Clone > SSH"
+							"string" : "[[Get started]]"
 						}
 					]
 				},
@@ -131,7 +168,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-20T17:40:38.892358+02:00"
+						"dateAndTimeString" : "2021-07-26T17:08:52.303732+02:00"
 					}
 				},
 				"editEmail" : {
@@ -142,23 +179,61 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-20T17:40:41.026788+02:00"
+						"dateAndTimeString" : "2021-07-26T17:08:54.069115+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "GR+3nPGDDQCIZ7K0D0sZSA=="
+					"uidString" : "UTku3WmEDQCtmLSzDsdmng=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[](https://github.com/RalfBarkow/federated-lepiter.git)"
+				"string" : "[[Federated Wiki]]"
 			},
 			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [ ]
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2021-07-26T17:10:57.782048+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2021-07-26T17:10:59.245441+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "ELGY5WmEDQCtqYkqDsdmng=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[[JSON Schema]]"
+						}
+					]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -168,7 +243,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-26T16:49:49.52409+02:00"
+						"dateAndTimeString" : "2021-07-26T17:10:36.576412+02:00"
 					}
 				},
 				"editEmail" : {
@@ -179,91 +254,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-26T16:52:25.63792+02:00"
+						"dateAndTimeString" : "2021-07-26T17:10:37.783163+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "EiqkmWmEDQCt2s9lDsdmng=="
+					"uidString" : "J58H5GmEDQCtpeiLDsdmng=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Back in `gt`, open `Git` and click `+ `, then – under `Import Git`  – click `local` and `Import` the cloned directory."
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-26T16:52:38.95049+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-26T16:53:39.780317+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "lyIopGmEDQCt2/0uDsdmng=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Register the `federated-lepiter` database."
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-26T16:55:06.376681+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-26T17:02:27.88433+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "Nu/zrGmEDQCt39vmDsdmng=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "Add a TOC page: [[Specification overview]]"
+				"string" : "[[Wiki]]"
 			}
 		]
 	},
@@ -275,7 +276,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2021-07-20T10:45:30.372944+02:00"
+			"dateAndTimeString" : "2021-07-26T17:02:29.74089+02:00"
 		}
 	},
 	"editEmail" : {
@@ -286,15 +287,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2021-07-20T10:45:39.08612+02:00"
+			"dateAndTimeString" : "2021-07-26T17:02:29.74089+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "self"
+		"title" : "Specification overview"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "e4892cd0-eb83-0d00-8811-601b0f4b1948"
+		"uuid" : "d2f870c7-6984-0d00-ade6-48210ec7669e"
 	}
 }
