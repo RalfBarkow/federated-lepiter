@@ -241,7 +241,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-20T07:41:48.072067+02:00"
+						"dateAndTimeString" : "2021-07-26T17:11:54.965713+02:00"
 					}
 				},
 				"editEmail" : {
@@ -252,7 +252,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-20T07:41:48.072067+02:00"
+						"dateAndTimeString" : "2021-07-26T17:12:08.256868+02:00"
 					}
 				},
 				"uid" : {
@@ -262,7 +262,44 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "# Commands to run FedWiki [](https://wiki.ralfbarkow.ch/view/commands-to-run-fedwiki)"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-26T17:12:38.320097+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-26T17:12:40.765487+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "pcGP62mEDQCtrxiKDsdmng=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[[config.json]]"
 			},
 			{
 				"__type" : "textSnippet",
