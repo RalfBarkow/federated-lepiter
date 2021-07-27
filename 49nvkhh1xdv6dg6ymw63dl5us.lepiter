@@ -290,14 +290,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-27T09:04:15.153551+02:00"
+						"dateAndTimeString" : "2021-07-27T09:05:45.859922+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "wd3+MHeEDQCtvVnpDsdmng=="
 				},
-				"code" : "EpMonitor current disable.\nMetacello new\n\tbaseline: 'FederatedLepiter';\n\trepository: 'github://RalfBarkow/federated-lepiter';\n\tload.\nEpMonitor current enable."
+				"code" : "EpMonitor current disable.\nMetacello new\n\tbaseline: 'FederatedLepiter';\n\trepository: 'github://RalfBarkow/federated-lepiter:main';\n\tload.\nEpMonitor current enable."
 			}
 		]
 	},
