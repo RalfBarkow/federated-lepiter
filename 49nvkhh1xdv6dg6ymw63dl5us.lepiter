@@ -264,6 +264,40 @@
 					"__type" : "textStyle"
 				},
 				"string" : "Add a TOC page: [[Specification overview]]"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-27T09:02:35.222326+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-27T09:04:15.153551+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "wd3+MHeEDQCtvVnpDsdmng=="
+				},
+				"code" : "EpMonitor current disable.\nMetacello new\n\tbaseline: 'FederatedLepiter';\n\trepository: 'github://RalfBarkow/federated-lepiter';\n\tload.\nEpMonitor current enable."
 			}
 		]
 	},
