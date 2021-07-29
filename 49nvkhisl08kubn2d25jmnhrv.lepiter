@@ -173,7 +173,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-21T08:09:35.572246+02:00"
+						"dateAndTimeString" : "2021-07-30T00:40:24.64838+02:00"
 					}
 				},
 				"uid" : {
@@ -183,7 +183,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "See [[JSON Schema]]"
+				"string" : "See [[JSON Schema]] for federated wiki pages."
 			}
 		]
 	},

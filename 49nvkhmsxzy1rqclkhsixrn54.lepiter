@@ -34,7 +34,7 @@
 								"__type" : "time",
 								"time" : {
 									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2021-07-21T23:24:53.69151+02:00"
+									"dateAndTimeString" : "2021-07-30T00:42:44.262263+02:00"
 								}
 							},
 							"uid" : {
@@ -44,7 +44,44 @@
 							"paragraphStyle" : {
 								"__type" : "textStyle"
 							},
-							"string" : "We define the schema for federated wiki pages to the depth that we know it. We use a BNF-like notation to suggest JSON elements. Any ambiguity will be resolved by examining the example. We close with a brief reflection on the successes of the format. [wiki](https://wiki.ralfbarkow.ch/view/welcome-visitors/view/json-schema)\n"
+							"string" : "We define the schema for federated wiki pages to the depth that we know it. We use a BNF-like notation to suggest [[JSON]] elements. Any ambiguity will be resolved by examining the example. We close with a brief reflection on the successes of the format. [wiki](https://wiki.ralfbarkow.ch/view/welcome-visitors/view/json-schema)\n"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2021-07-30T00:41:30.425818+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2021-07-30T00:41:34.932457+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "haV0iqyEDQCnAYYdAlFVHQ=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "See [[Backus–Naur form]]"
 						}
 					]
 				},
@@ -613,7 +650,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-29T16:54:57.047697+02:00"
+						"dateAndTimeString" : "2021-07-30T00:43:49.352946+02:00"
 					}
 				},
 				"uid" : {
@@ -623,7 +660,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Let's start exploring the data of such page:"
+				"string" : "Let's start by exploring the data of such page:"
 			},
 			{
 				"__type" : "pharoSnippet",
