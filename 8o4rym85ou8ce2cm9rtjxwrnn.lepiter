@@ -1,0 +1,113 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-29T16:41:59.229136+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-29T16:42:02.411582+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "f0uC16WEDQCdaFpxDuJzkg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[wiki](http://mhresources.federated.wiki/view/systems-starter-kit)"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-29T16:41:35.714725+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-29T16:41:44.508451+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "dqQv1qWEDQCdZ0/KDuJzkg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "This page will help you set up a federated wiki to make dynamic-system maps ('graphs') of things and relationships that are of concern you and your collaborators. We offer here tools and methods for setting up a wiki, and using collaborative hypertext to discover and describe.\n\nPrepare\n\nYou can browse here but you will want to create a wiki of your own to hold your work longer-term. If you expect to do many system projects consider making a new wiki for each project.\n\nFork this page into your new wiki. Return to the page each time you start, to be sure you have the starter kit in your neighborhood. This kit will help you eventually to fork into your site all the tools you need, and be on your own way.\n\nScope\n\nBegin your system-investigation project by considering a few questions that will help to put boundaries on your inquiry. When we prompt for ideas with the questions below, give each idea a tentative name and list them as separate items after each question.\n\nFirst Questions and Answers\n\nMore Questions and Answers\n\nReview each question. Consider if answers would go better under different questions. No need to repeat answers. These results will mix together eventually, in an overall map of things and relationships. This kit is to help you bring together all the things and all the relationships that might not have been obvious at first.\n\nShift-click a link to bring pages up side by side. Drag items within and between pages. Compare your work with colleagues. Add your sites and their sites to this Roster. This roster is your first map - of your collaborators' work areas and resources.\n\nColleagues \nsys.fed.wiki »\nDocumentation \nglossary.asia.wiki.org own.fed.wiki plugins.dojo.fed.wiki »\nModeling\n\nA model gets built by specifying variables, things that can change and will change over time. Some of your answers you gave above will be variables. We will use a template for describing variables. Fork it into your neighborhood now and then proceed.\n\nSystem Variable Template\n\nAdjust your answers above so they are variable names. Enclose them in double square brackets to make them into links. If you know what variables cause change in other variables, order their links with causes first.\n\nAs you click on a variable name link for the first time you will be offered several ways to create the variable. Choose [create] from System Variable Template. Repeat for your current list of variables. Revisit your lists as is convenient. In this way, you set up and describe all the variables in your emerging system model, within the workspace of this wiki.\n\nWhen one variable directly influences another you can open and view both of them using shift-click to line them up side by side. Drag the flag from the cause to the Graph of the influenced variable to the right. They will show as connected.\n\nOnce you have recorded causal relationships you can click the influenced variable name to recreate the lineup without returning to your list of answers.\n\nMapping\n\nUsing the Lineup Viewer you can create a map of all the variables and relations you choose to put into the current lineup. Fork the Lineup Viewer now so that it is always handy.\n\nLineup Viewer\n\nOpen the Lineup Viewer from the right most variable in your lineup. The viewer looks left for input and will report what it finds. Click [draw] to open a new page with a Graphviz rendering of all lineup variables and connections where they appear.\n\nIf a variable shows relations to variables that haven't yet been opened they will still show in Graphviz. You can click these now in the graph, and continue modeling and mapping.\n\nCC BY-SA 4.0 . JSON . mhresources.federated.wiki . search\nSite Owned by: Susxanon        115 pages \nmhresources.federated.wiki\nsys.fed.wiki\n  ☰   wiki  "
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-07-29T16:41:25.074297+02:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-07-29T16:41:32.969759+02:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Systems Starter Kit"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "03d195d5-a584-0d00-9d65-d3a40ee27392"
+	}
+}
