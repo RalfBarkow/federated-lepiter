@@ -40,6 +40,81 @@
 					"__type" : "textStyle"
 				},
 				"string" : "Current state of the art  – at least in the gt community we know – seems to be [[A Wiki infrastructure for the GToolkit environment]] by  Konrad Hinsen [page](https://khinsen.net/). See also the [Reproducible research: methodological principles for transparent science](https://www.fun-mooc.fr/en/courses/reproducible-research-methodological-principles-transparent-scie/) MOOC that he has been working on with several colleagues. "
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2021-07-29T17:25:27.954224+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2021-07-29T17:25:50.413633+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "ti2QcqaEDQCdvmfnDuJzkg=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "Beware this project was based on the obsolete Documenter stuff in GT. I believe the wiki stuff will not be updated IIRC @Konrad Hinsen and have already converted all my wikis to Lepiter. Better to base new work on Lepiter."
+						}
+					]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-29T17:25:50.408672+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-07-29T17:25:56.062036+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "9ZBzdKaEDQCdwbnyDuJzkg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[SeanDeNigris — heute um 17:07 Uhr](https://discord.com/channels/729445214812504107/869631488805699685/870321607174942820)"
 			}
 		]
 	},
