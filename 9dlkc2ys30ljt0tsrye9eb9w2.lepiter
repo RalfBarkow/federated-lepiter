@@ -82,6 +82,43 @@
 								"__type" : "textStyle"
 							},
 							"string" : "For a form of discussion see [[Thread Mode]]"
+						},
+						{
+							"__type" : "textSnippet",
+							"children" : {
+								"__type" : "snippets",
+								"items" : [ ]
+							},
+							"createEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"createTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2021-07-30T19:29:01.055914+02:00"
+								}
+							},
+							"editEmail" : {
+								"__type" : "email",
+								"emailString" : "<unknown>"
+							},
+							"editTime" : {
+								"__type" : "time",
+								"time" : {
+									"__type" : "dateAndTime",
+									"dateAndTimeString" : "2021-07-30T19:30:24.47297+02:00"
+								}
+							},
+							"uid" : {
+								"__type" : "uid",
+								"uidString" : "Oh1gSryEDQCHeOkuBlPq3A=="
+							},
+							"paragraphStyle" : {
+								"__type" : "textStyle"
+							},
+							"string" : "[Offray — 15.07.2021](https://discord.com/channels/729445214812504107/729445215341117522/864998462914560032)\nFor our workflows, ideally Lepiter should be able to import from Markdown and export to Tiddlers. I have two small packages GrafoscopioUtils[1] and TiddlyWikiPharo[2] that provide starting pieces for that. But we can develop them further here locally and those are good teaching examples of how a moldable infrastructure can bridge online-first + collective + synchronous tools and experiences with those local-first + (inter)personal + asynchronous as we work in both modes here and with different starting points and workflows.\n\nBut the part where I need more help is related with the Lepiter experience in places where I don't know what to do. For example, the frozen/slow interface recovery when switching between virtual desktops in AwesomeWM + Linux, or that I would like to make the document tree always visible instead of it automatically hidden when new columns are shown: contrast the previous [[Grafoscopio]] screenshot where you know where you are located in the document and which is the result of executing a node  versus the Lepiter one, where you lost context in the document tree once you execute a particular note snippet."
 						}
 					]
 				},
