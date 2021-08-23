@@ -2705,7 +2705,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-08-23T15:38:51.92864+02:00"
+						"dateAndTimeString" : "2021-08-23T16:06:07.059402+02:00"
 					}
 				},
 				"uid" : {
@@ -2715,7 +2715,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "At this point,  the `data` of our `page` should be ready  to be inspected:"
+				"string" : "At this point,  the `data` of our *Welcome Visitors* `page` should be ready  to be inspected:"
 			},
 			{
 				"__type" : "pharoSnippet",
