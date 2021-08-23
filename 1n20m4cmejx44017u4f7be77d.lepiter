@@ -385,6 +385,43 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-08-23T15:52:47.605523+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-08-23T15:59:59.905863+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "IA3NEJyGDQCF/cRHD3iUbg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "**Note**: Instead of now describing each subsequent step as text, we will work with `Changes` snippets in the following."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
 						"dateAndTimeString" : "2021-08-23T14:45:21.223949+02:00"
 					}
 				},
@@ -581,7 +618,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-08-23T15:31:45.717118+02:00"
+						"dateAndTimeString" : "2021-08-23T15:47:35.130212+02:00"
 					}
 				},
 				"uid" : {
@@ -591,7 +628,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Slots are not accessible from the outside of an object. We create a slot  from inside a method. See [discord](https://discord.com/channels/729445214812504107/771616833458798592/879352631997386752): How to  create slots  right from the #gtoolkit Playground?"
+				"string" : "Slots are not accessible from the outside of an object. We create a slot  from inside a method. See [discord](https://discord.com/channels/729445214812504107/771616833458798592/879352631997386752): How to  create slots  right from the #gtoolkit Playground? (Note: I am not sure if I have understood this.)"
 			},
 			{
 				"__type" : "textSnippet",
@@ -618,7 +655,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-08-23T15:34:26.658241+02:00"
+						"dateAndTimeString" : "2021-08-23T16:00:54.380994+02:00"
 					}
 				},
 				"uid" : {
@@ -628,7 +665,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "And we found this place in the Coder  to add Slots:"
+				"string" : "And we find  this place in the Coder to add Slots:"
 			},
 			{
 				"__type" : "pictureSnippet",
@@ -1749,7 +1786,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-08-11T23:07:09.506969+02:00"
+						"dateAndTimeString" : "2021-08-23T16:01:35.69945+02:00"
 					}
 				},
 				"uid" : {
@@ -1759,7 +1796,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Go up / scroll up to the snippet  `journal (slot)`. – and return to here, in order to apply the following changes:"
+				"string" : "Go up / scroll up to the snippet  `Create FedWikiPage and its slots using Changes`. – and return to here, in order to apply the following `Changes`:"
 			},
 			{
 				"__type" : "textSnippet",
