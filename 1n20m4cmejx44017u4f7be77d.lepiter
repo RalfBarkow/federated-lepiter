@@ -362,51 +362,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-08-23T14:44:40.881302+02:00"
+						"dateAndTimeString" : "2021-08-23T18:52:46.536219+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "FAWCFpuGDQCFxHhpD3iUbg=="
 				},
-				"code" : ""
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-08-23T15:52:47.605523+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-08-23T15:59:59.905863+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "IA3NEJyGDQCF/cRHD3iUbg=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "**Note**: Instead of now describing each subsequent step as text, we will work with `Changes` snippets in the following."
+				"code" : "FedWikiPage"
 			},
 			{
 				"__type" : "textSnippet",
@@ -618,7 +581,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-08-23T15:47:35.130212+02:00"
+						"dateAndTimeString" : "2021-08-23T18:55:13.513665+02:00"
 					}
 				},
 				"uid" : {
@@ -628,7 +591,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Slots are not accessible from the outside of an object. We create a slot  from inside a method. See [discord](https://discord.com/channels/729445214812504107/771616833458798592/879352631997386752): How to  create slots  right from the #gtoolkit Playground? (Note: I am not sure if I have understood this.)"
+				"string" : "Slots are not accessible from the outside of an object. See [discord](https://discord.com/channels/729445214812504107/771616833458798592/879352631997386752): How to  create slots  right from the #gtoolkit Playground? "
 			},
 			{
 				"__type" : "textSnippet",
@@ -655,7 +618,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-08-23T16:00:54.380994+02:00"
+						"dateAndTimeString" : "2021-08-23T18:56:07.548003+02:00"
 					}
 				},
 				"uid" : {
@@ -665,7 +628,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "And we find  this place in the Coder to add Slots:"
+				"string" : "We add Slots in a Pharo snippet:"
 			},
 			{
 				"__type" : "pictureSnippet",
@@ -692,14 +655,51 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-08-23T15:32:57.816788+02:00"
+						"dateAndTimeString" : "2021-08-23T18:56:58.860203+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "0JC7yZuGDQCF48RHD3iUbg=="
 				},
-				"url" : "attachments/6joe7x4hh1u909cccshd27sgo/Bildschirmfoto 2021-08-23 um 15.23.40.png"
+				"url" : "attachments/e19fngdhv1i9wpejsr6l96czx/Bildschirmfoto 2021-08-23 um 18.54.10.png"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-08-23T15:52:47.605523+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-08-23T15:59:59.905863+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "IA3NEJyGDQCF/cRHD3iUbg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "**Note**: Instead of now describing each subsequent step as text, we will work with `Changes` snippets in the following."
 			},
 			{
 				"__type" : "textSnippet",
@@ -1704,7 +1704,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-08-11T23:00:40.047097+02:00"
+						"dateAndTimeString" : "2021-08-23T18:46:45.85394+02:00"
 					}
 				},
 				"editEmail" : {
@@ -1715,7 +1715,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-08-11T23:00:40.047097+02:00"
+						"dateAndTimeString" : "2021-08-23T18:49:26.446716+02:00"
 					}
 				},
 				"uid" : {
@@ -1725,7 +1725,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Undeclared temp: FedWikiPage"
+				"string" : "Inspect the following Pharo snippet and add the missing methods – one by one:"
 			},
 			{
 				"__type" : "pharoSnippet",
