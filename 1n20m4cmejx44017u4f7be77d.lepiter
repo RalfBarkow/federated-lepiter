@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-08-23T14:21:37.584239+02:00"
+						"dateAndTimeString" : "2021-08-24T18:28:53.77359+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Here we start to reconstruct source code from Offray:"
+				"string" : "Here we start to reconstruct source [code](https://code.tupale.co/Offray/TiddlyWikiPharo) from Offray:"
 			},
 			{
 				"__type" : "textSnippet",
