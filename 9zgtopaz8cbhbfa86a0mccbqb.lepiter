@@ -1,0 +1,113 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-09-05T11:26:58.693949+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-09-05T11:27:01.976989+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "i8070Z2HDQCuiKfuAn+pqA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[wiki](https://wiki.ralfbarkow.ch/view/about-factory-plugin)"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-09-05T11:37:55.057203+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-09-05T11:38:01.923977+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "0RMfBp6HDQCui00kAn+pqA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "The [[Factory]] plugin manufactures a new plugin which then replaces the factory. A variety of user interactions trigger the manufacturing of a new plugin.\n\nUse the [+] button to add new factories to a page. This button appears at the bottom of every page, tucked into the lower-right corner of the space allocated to the journal.\n\nUse an un-triggered factory as an entry field suggesting to users where a page can be improved with additional information.\n\nInteractions\nUser initiated interactions determine the type of item a factory becomes.\n\nDouble-Click to create a normal paragraph and open the Text Editor to provide the text of the paragraph.\n\nDrop a Text File to create a normal paragraph containing the text of the file.\n\nDrop an Image File to create an image item. The caption of the item will read \"uploaded image\". Double click the caption to revise it.\n\nDrop a .CSV File to create a data item containing the rows and columns of the .csv converted to an array of key-value objects.\n\nDrop a Weblocation File to create a reference to a federated wiki page on another site. The reference will choose the last wiki page when a reference refers to multiple wiki pages.\n\nDrop a Weblocation from another browser tab to create a reference without first creating a file.\n\nBe aware that every file type and every browser on every system will present a somewhat different signature to the factory plugin. When the factory can't make sense of the signature it makes a data item with the caption unexpected item which will hold some identifying information about the dropped content."
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-09-05T11:23:07.153555+02:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-09-05T11:23:07.153555+02:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "About Factory Plugin"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "63ea3ad1-9d87-0d00-ae87-7b20027fa9a8"
+	}
+}
