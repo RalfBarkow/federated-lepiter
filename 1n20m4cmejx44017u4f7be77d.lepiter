@@ -3119,7 +3119,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-08-11T17:59:25.693832+02:00"
+						"dateAndTimeString" : "2021-09-07T09:06:07.945221+02:00"
 					}
 				},
 				"editEmail" : {
@@ -3130,7 +3130,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-08-11T22:59:46.528477+02:00"
+						"dateAndTimeString" : "2021-09-07T09:06:13.271138+02:00"
 					}
 				},
 				"uid" : {
@@ -3140,7 +3140,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : ""
+				"string" : "See [[Journal]]"
 			}
 		]
 	},
