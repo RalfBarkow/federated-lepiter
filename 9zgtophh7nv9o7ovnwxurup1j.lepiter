@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:06:42.473729+02:00"
+						"dateAndTimeString" : "2021-09-07T11:05:07.232874+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:06:47.329877+02:00"
+						"dateAndTimeString" : "2021-09-07T11:05:12.42787+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "m4LaJMSHDQC18F3aAn+pqA=="
+					"uidString" : "FwHGy8WHDQC3XKD5An+pqA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[wiki](https://wiki.ralfbarkow.ch/view/journal)"
+				"string" : "[wiki](https://wiki.ralfbarkow.ch/view/incremental-paragraphs)"
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-29T17:15:14.098883+02:00"
+						"dateAndTimeString" : "2021-09-07T11:05:23.503784+02:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +66,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-29T17:15:14.098883+02:00"
+						"dateAndTimeString" : "2021-09-07T11:05:23.503784+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "XURDTqaEDQCdkLOwDuJzkg=="
+					"uidString" : "zH53zcWHDQC3XvB1An+pqA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "The journal contains a sequence of actions that creates the story. Actions are of a small number of types relating to editing actions."
+				"string" : "A complete thought is more important than a complete sentence. Write to be read in progress. Expect your work to be consumed and discarded before it is finished."
 			},
 			{
 				"__type" : "textSnippet",
@@ -92,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:07:17.234654+02:00"
+						"dateAndTimeString" : "2021-09-07T11:05:39.139833+02:00"
 					}
 				},
 				"editEmail" : {
@@ -103,17 +103,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:07:34.130098+02:00"
+						"dateAndTimeString" : "2021-09-07T11:05:39.914423+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "l6wLJ8SHDQC1+GSoAn+pqA=="
+					"uidString" : "DaZezsWHDQC3YGHlAn+pqA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "A wiki page has a journal of actions that have been completed. The journal lists each [[Action]] that contributed to the page being what and where it is now. The journal records the history of how the page was made and where it has traveled."
+				"string" : "# Technique"
 			},
 			{
 				"__type" : "textSnippet",
@@ -129,7 +129,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:43:14.885814+02:00"
+						"dateAndTimeString" : "2021-09-07T11:05:46.826022+02:00"
 					}
 				},
 				"editEmail" : {
@@ -140,17 +140,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:43:24.12654+02:00"
+						"dateAndTimeString" : "2021-09-07T11:05:50.651591+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "KUqrp8SHDQC2B/E+An+pqA=="
+					"uidString" : "5THhzsWHDQC3Yt2FAn+pqA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "The `addToJournal` function is called when the origin server response that the network operation is complete."
+				"string" : "Thoughts appear (and disappear) like bubbles in a pool of thinking. We write to capture thoughts before they are gone, and, we write to share our better thoughts with others.\n\nWholesale copying and rampant reorganization enabled by federated wiki makes possible a uniquely new style of computer mediated collaborative thought.\n\nPlay to your colleagues' strengths by letting them watch you think. Make clear how quickly or deeply you have thought. And, leave room for them to bring their intellect and experience to the activity.\n\nUse small marks to overly status on a work in progress. Include a key to your notation which will also serve as a handy place to copy symbols.\n\nHandy symbols: ✔ done, • also, ✘ fail, ★ favorite."
 			},
 			{
 				"__type" : "textSnippet",
@@ -166,7 +166,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:43:36.054321+02:00"
+						"dateAndTimeString" : "2021-09-07T11:06:02.924698+02:00"
 					}
 				},
 				"editEmail" : {
@@ -177,17 +177,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:43:36.054321+02:00"
+						"dateAndTimeString" : "2021-09-07T11:06:15.133808+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "vHT2qMSHDQC2DOKGAn+pqA=="
+					"uidString" : "/ijTz8WHDQC3ZIrcAn+pqA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "When the journal is accurate it can be replayed to recreate every version of the page through its history."
+				"string" : "We're suggesting a process that has roots in pair-programming. We explore this similarity further when we consider [[Thinking vs. Writing]]."
 			},
 			{
 				"__type" : "textSnippet",
@@ -203,7 +203,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:43:42.087719+02:00"
+						"dateAndTimeString" : "2021-09-07T11:06:23.491353+02:00"
 					}
 				},
 				"editEmail" : {
@@ -214,17 +214,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:43:48.518327+02:00"
+						"dateAndTimeString" : "2021-09-07T11:06:30.724006+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "8X1TqcSHDQC2DxouAn+pqA=="
+					"uidString" : "sU4A0cWHDQC3Z38DAn+pqA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "When the journal identifies sites from which it has been copied (forked) those sites will be added to the [[Neighborhood]] upon display."
+				"string" : "#Samples"
 			},
 			{
 				"__type" : "textSnippet",
@@ -240,7 +240,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:44:00.303111+02:00"
+						"dateAndTimeString" : "2021-09-07T11:06:37.345835+02:00"
 					}
 				},
 				"editEmail" : {
@@ -251,17 +251,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:52:59.770655+02:00"
+						"dateAndTimeString" : "2021-09-07T11:06:37.345835+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "4v9nqsSHDQC2E/1IAn+pqA=="
+					"uidString" : "yfLl0cWHDQC3adO4An+pqA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "See our glossary for more [[Names of Things]] and  [[Story]]."
+				"string" : "We illustrate writing styles by pondering the very act of writing. We progress from quickly grabbed thoughts towards more considered paragraph forms writing three paragraphs in every style."
 			},
 			{
 				"__type" : "textSnippet",
@@ -277,7 +277,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:53:03.932756+02:00"
+						"dateAndTimeString" : "2021-09-07T11:07:54.364632+02:00"
 					}
 				},
 				"editEmail" : {
@@ -288,91 +288,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:53:13.556682+02:00"
+						"dateAndTimeString" : "2021-09-07T11:11:05.795324+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "RTqlUqaEDQCdmGRQDuJzkg=="
+					"uidString" : "MatP1MWHDQC3a+czAn+pqA=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "# Event-Driven System Domain   "
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:53:19.97697+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:53:34.320798+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "PUzJy8SHDQC2WW2lAn+pqA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "In an event-driven system domain events are published to a journal. [page](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7?utm_source=pocket_mylist&gi=9a3043915926) – Modelling Reactive Systems with Event Storming and Domain-Driven Design"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:56:01.466626+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:56:05.988102+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "SFpC1cSHDQC2YPitAn+pqA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "See [[Journal Optimization]]"
+				"string" : "[…]"
 			}
 		]
 	},
@@ -384,7 +310,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2021-07-29T17:15:09.658876+02:00"
+			"dateAndTimeString" : "2021-09-07T11:04:54.238671+02:00"
 		}
 	},
 	"editEmail" : {
@@ -395,15 +321,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2021-07-29T17:15:09.658876+02:00"
+			"dateAndTimeString" : "2021-09-07T11:04:54.238671+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Journal"
+		"title" : "Incremental Paragraphs"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "2785424e-a684-0d00-9d8f-103b0ee27392"
+		"uuid" : "471dc5cb-c587-0d00-b75b-18f9027fa9a8"
 	}
 }

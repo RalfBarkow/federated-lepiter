@@ -1,0 +1,113 @@
+{
+	"__schema" : "4.1",
+	"__type" : "page",
+	"children" : {
+		"__type" : "snippets",
+		"items" : [
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-09-03T13:28:04.167675+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-09-03T13:28:07.811601+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "wr0bU3eHDQCWEzRKDLkP6A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[wiki](https://wiki.ralfbarkow.ch/view/where-pages-live)"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-09-03T13:36:32.762064+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-09-03T13:36:32.762064+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "4Qe4cneHDQCWMjCfDLkP6A=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "We describe where the json representing a wiki page can be stored and how pages move between these stores.\n\n#Representation\nA wiki page is a json object with members for [[title]], [[story]] and [[journal]]. All are optional so {} can be a page, but [] cannot.\n\nA title is expected to be a string which can be converted into a [[slug]]. Titles of various capitalization will produce the same slug. Stores often index pages by their title's slug. The slug of a slug is the slug.\n\nWe think of a page as being json even when it has been parsed into some host system's object representation. Good practice does this parsing as soon as possible.\n\n#Residence\nServers managing a single site or a farm.\n\nServers on the internet, an intranet, or a private computer.\n\nLocal Storage in an html5 browser.\n\nIncluded with plugins as documentation.\n\nDOM elements of class 'page'.\n\nCreate actions within the journal of a later version.\n\nImporter scripts and the files they read.\n\nHTML text cached somewhere in the web from a server-side rendering.\n\nSystem pages, like recent-changes.json are constructed on demand from system information.\n\n#Addressing\nInternet addresses for pages are formed by combining slugs with various storage indications.\n\norigin.com/slug.html — retrieve the HTML rendering\n\norigin.com/view/slug — retrieve the js to render slug\n\norigin.com — same as origin.com/view/welcome-visitors\n\norigin.com/view/slug_rev2 — render a revision of a slug\n\nThe js rendering interprets various alternative storage indicators. These can be repeated in indicator/slug pairs to specify multiple pages to be displayed at once.\n\norigin/slug — retrieve page from origin server ignoring browser local storage copy if any.\n\nlocal/slug — retrieve page from browser local storage ignoring the origin server copy if any.\n\nview/slug — retrieve page from origin or local, giving preference to local if present\n\ndomain.com/slug — retrieve page from a remote server ignoring copies in local or origin.\n\n#Transport\nA browser gets a page from a server in response to a GET request, often via ajax.\n\nA browser puts updates to a page by sending actions that can be interpreted by the server, presumably via ajax.\n\nA browser writes whole pages to its own local storage when it cannot save edits on a remote machine.\n\nA browser puts a bundle of pages, usually changes, usually stored in new space on a farm.\n\nA browser puts an individual page from local storage to a writable origin. This is a recent variation on the fork action.\n\nA browser gets a page from a remote server via CORS request.\n\nA browser gets a page from a remote server via the origin server acting as a proxy. This is deprecated but not yet eliminated.\n\nAn administrator moves pages or whole sites by scp or related mechanisms.\n\nAn importer runs and writes, typically, to page space of a private computer.\n\nAn importer runs automatically and writes to page space of a public server.\n\nAn importer adds its constructed story to a create action in the journal.\n\nAn importer retrieves previously constructed pages so as to preserve previous creates that exist in those journals.\n\n#Fork\nA fork involves retrieving a page from one store and saving it in another store where it can be updated independently from its source.\n\nA fork should be recorded as a fork action in the journal. This satisfies the attribution requirement of the creative commons attribution, share-alike license.\n\nCaching a page for more efficient access is not a form of forking.\n\nPublishing a page from a private staging location is not a form of forking.\n\nSaving a page in browser local storage is considered a fork. Saving it back to the origin is also a fork.\n\n#Ghosts\nA ghost page is one that isn't explicitly stored in the server's database.\n\nA revision retrieved by reconstructing it from the journal of a page.\n\nBut not a system page like recent-changes.\n\nA page that is cited in a link or in a url but does not yet exist.\n\nA page that holds the results of a search.\n\nA page that holds the results from a failed server request.\n\nBut not a page retrieved from the pages component of a plugin.\n\nBut not a page retrieved from the server's default pages directory."
+			}
+		]
+	},
+	"createEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"createTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-09-03T13:27:42.373703+02:00"
+		}
+	},
+	"editEmail" : {
+		"__type" : "email",
+		"emailString" : "<unknown>"
+	},
+	"editTime" : {
+		"__type" : "time",
+		"time" : {
+			"__type" : "dateAndTime",
+			"dateAndTimeString" : "2021-09-03T13:27:42.373703+02:00"
+		}
+	},
+	"pageType" : {
+		"__type" : "namedPage",
+		"title" : "Where Pages Live"
+	},
+	"uid" : {
+		"__type" : "uuid",
+		"uuid" : "5ffa1a53-7787-0d00-9612-3a7e0cb90fe8"
+	}
+}

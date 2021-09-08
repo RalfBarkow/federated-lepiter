@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:06:42.473729+02:00"
+						"dateAndTimeString" : "2021-09-02T06:23:52.035516+02:00"
 					}
 				},
 				"editEmail" : {
@@ -29,17 +29,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:06:47.329877+02:00"
+						"dateAndTimeString" : "2021-09-02T06:23:59.857083+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "m4LaJMSHDQC18F3aAn+pqA=="
+					"uidString" : "swi2SF2HDQCW5MTWDLkP6A=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[wiki](https://wiki.ralfbarkow.ch/view/journal)"
+				"string" : "[wiki](https://wiki.ralfbarkow.ch/view/using-dictionaries-in-pharo-smalltalk)"
 			},
 			{
 				"__type" : "textSnippet",
@@ -55,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-29T17:15:14.098883+02:00"
+						"dateAndTimeString" : "2021-09-02T06:24:58.474994+02:00"
 					}
 				},
 				"editEmail" : {
@@ -66,17 +66,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-29T17:15:14.098883+02:00"
+						"dateAndTimeString" : "2021-09-02T06:25:00.354102+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "XURDTqaEDQCdkLOwDuJzkg=="
+					"uidString" : "dUpcTV2HDQCW50JrDLkP6A=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "The journal contains a sequence of actions that creates the story. Actions are of a small number of types relating to editing actions."
+				"string" : "#Enumerating"
 			},
 			{
 				"__type" : "textSnippet",
@@ -92,7 +92,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:07:17.234654+02:00"
+						"dateAndTimeString" : "2021-09-02T06:25:09.398384+02:00"
 					}
 				},
 				"editEmail" : {
@@ -103,17 +103,51 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:07:34.130098+02:00"
+						"dateAndTimeString" : "2021-09-02T06:25:09.398384+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "l6wLJ8SHDQC1+GSoAn+pqA=="
+					"uidString" : "uS8TTl2HDQCW6UM1DLkP6A=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "A wiki page has a journal of actions that have been completed. The journal lists each [[Action]] that contributed to the page being what and where it is now. The journal records the history of how the page was made and where it has traveled."
+				"string" : "Enumerating in Pharo Smalltalk can also be achieved in multiple ways. The do: message is available in many classes for iterating, which for Dictionaries iterates through the values:"
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-09-02T06:25:24.03713+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-09-02T06:25:24.655544+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "S0b7Tl2HDQCW64ZiDLkP6A=="
+				},
+				"code" : "d do: [ :value | Transcript show: value; cr]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -129,7 +163,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:43:14.885814+02:00"
+						"dateAndTimeString" : "2021-09-02T06:25:34.879399+02:00"
 					}
 				},
 				"editEmail" : {
@@ -140,17 +174,51 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:43:24.12654+02:00"
+						"dateAndTimeString" : "2021-09-02T06:25:34.879399+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "KUqrp8SHDQC2B/E+An+pqA=="
+					"uidString" : "pOGYT12HDQCW7TU6DLkP6A=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "The `addToJournal` function is called when the origin server response that the network operation is complete."
+				"string" : "which is Python would be:"
+			},
+			{
+				"__type" : "pythonSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-09-02T06:25:56.773363+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-09-02T06:26:04.112892+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "JMruUF2HDQCW7+iCDLkP6A=="
+				},
+				"code" : "for value in d.values():\n    print(value)"
 			},
 			{
 				"__type" : "textSnippet",
@@ -166,7 +234,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:43:36.054321+02:00"
+						"dateAndTimeString" : "2021-09-02T06:26:27.57838+02:00"
 					}
 				},
 				"editEmail" : {
@@ -177,17 +245,51 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:43:36.054321+02:00"
+						"dateAndTimeString" : "2021-09-02T06:26:27.57838+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "vHT2qMSHDQC2DOKGAn+pqA=="
+					"uidString" : "IuG+Ul2HDQCW81MvDLkP6A=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "When the journal is accurate it can be replayed to recreate every version of the page through its history."
+				"string" : "The do: message is an alias for valuesDo: and there is also a keysDo: for iterating through the keys and associationsDo: for iterating through the key–value pairs. Unlike Python which returns a tuple of the key and value, in Pharo an Association object is returned. This class responds to the key and value messages for accessing each."
+			},
+			{
+				"__type" : "pharoSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-09-02T06:26:41.330234+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-09-02T06:26:41.926144+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "c6yWU12HDQCW9UC7DLkP6A=="
+				},
+				"code" : "d associationsDo: [ :pair | Transcript show: pair key; cr; show: pair value; cr]"
 			},
 			{
 				"__type" : "textSnippet",
@@ -203,7 +305,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:43:42.087719+02:00"
+						"dateAndTimeString" : "2021-09-02T06:27:10.677353+02:00"
 					}
 				},
 				"editEmail" : {
@@ -214,17 +316,51 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:43:48.518327+02:00"
+						"dateAndTimeString" : "2021-09-02T06:27:10.677353+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "8X1TqcSHDQC2DxouAn+pqA=="
+					"uidString" : "D7VeVF2HDQCW9+ruDLkP6A=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "When the journal identifies sites from which it has been copied (forked) those sites will be added to the [[Neighborhood]] upon display."
+				"string" : "and the Python equivalent:"
+			},
+			{
+				"__type" : "pythonSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-09-02T06:27:19.815869+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-09-02T06:27:20.578693+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "B+vhVV2HDQCW+cNIDLkP6A=="
+				},
+				"code" : "for pair in d.items():\n    print(pair[0])\n    print(pair[1])"
 			},
 			{
 				"__type" : "textSnippet",
@@ -240,7 +376,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:44:00.303111+02:00"
+						"dateAndTimeString" : "2021-09-02T06:27:29.866864+02:00"
 					}
 				},
 				"editEmail" : {
@@ -251,128 +387,17 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:52:59.770655+02:00"
+						"dateAndTimeString" : "2021-09-02T06:27:29.866864+02:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "4v9nqsSHDQC2E/1IAn+pqA=="
+					"uidString" : "ZkZxVl2HDQCW+1enDLkP6A=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "See our glossary for more [[Names of Things]] and  [[Story]]."
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:53:03.932756+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:53:13.556682+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "RTqlUqaEDQCdmGRQDuJzkg=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "# Event-Driven System Domain   "
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:53:19.97697+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:53:34.320798+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "PUzJy8SHDQC2WW2lAn+pqA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "In an event-driven system domain events are published to a journal. [page](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7?utm_source=pocket_mylist&gi=9a3043915926) – Modelling Reactive Systems with Event Storming and Domain-Driven Design"
-			},
-			{
-				"__type" : "textSnippet",
-				"children" : {
-					"__type" : "snippets",
-					"items" : [ ]
-				},
-				"createEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"createTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:56:01.466626+02:00"
-					}
-				},
-				"editEmail" : {
-					"__type" : "email",
-					"emailString" : "<unknown>"
-				},
-				"editTime" : {
-					"__type" : "time",
-					"time" : {
-						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-07T09:56:05.988102+02:00"
-					}
-				},
-				"uid" : {
-					"__type" : "uid",
-					"uidString" : "SFpC1cSHDQC2YPitAn+pqA=="
-				},
-				"paragraphStyle" : {
-					"__type" : "textStyle"
-				},
-				"string" : "See [[Journal Optimization]]"
+				"string" : "Despite the differences introduced through the syntax of each language, using dictionaries in Pharo Smalltalk and Python are basically the same."
 			}
 		]
 	},
@@ -384,7 +409,7 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2021-07-29T17:15:09.658876+02:00"
+			"dateAndTimeString" : "2021-09-02T06:23:38.78704+02:00"
 		}
 	},
 	"editEmail" : {
@@ -395,15 +420,15 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2021-07-29T17:15:09.658876+02:00"
+			"dateAndTimeString" : "2021-09-02T06:23:38.78704+02:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Journal"
+		"title" : "Using Dictionaries in Pharo Smalltalk"
 	},
 	"uid" : {
 		"__type" : "uuid",
-		"uuid" : "2785424e-a684-0d00-9d8f-103b0ee27392"
+		"uuid" : "4d48b548-5d87-0d00-96e3-10b80cb90fe8"
 	}
 }
