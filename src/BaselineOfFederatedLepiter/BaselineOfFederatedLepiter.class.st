@@ -1,10 +1,13 @@
+"
+I am the Baseline of the Federated Lepiter
+"
 Class {
-	#name : #BaselineOfFederatedLepiter,
-	#superclass : #BaselineOf,
-	#category : #BaselineOfFederatedLepiter
+	#name : 'BaselineOfFederatedLepiter',
+	#superclass : 'BaselineOf',
+	#category : 'BaselineOfFederatedLepiter'
 }
 
-{ #category : #baseline }
+{ #category : 'baseline' }
 BaselineOfFederatedLepiter >> baseline: spec [
 	<baseline>
 
@@ -21,16 +24,3 @@ BaselineOfFederatedLepiter >> baseline: spec [
 		spec package: 'Ideas' with: [
 			spec requires: #('Magritte' 'Mocketry' 'PharoEnhancements' 'SimplePersistence') ] ].
 ]
-
-{ #category : #accessing }
-BaselineOfIdeas >> customProjectAttributes [
-	^ self isGTImage
-			ifFalse: [ #(notGToolkit) ]
-			ifTrue: [ #(GToolkit) ]
-]
-
-{ #category : #accessing }
-BaselineOfIdeas >> isGTImage [
-	^ RPackageOrganizer default packageNames anySatisfy: [ :pn | pn beginsWith: 'GToolkit-' ]
-]
-
