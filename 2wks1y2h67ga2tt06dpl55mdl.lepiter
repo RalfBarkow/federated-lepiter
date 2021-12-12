@@ -522,6 +522,43 @@
 				"string" : "#Inspect export.json"
 			},
 			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-12-12T09:35:17.64455+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2021-12-12T09:37:58.905053+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "zPOQklCPDQCRAjkcBfrB6g=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "**Prerequisite**: `curl https://wiki.ralfbarkow.ch/system/export.json >export.json`"
+			},
+			{
 				"__type" : "pharoSnippet",
 				"children" : {
 					"__type" : "snippets",
@@ -546,14 +583,14 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-07-18T14:33:04.65633+02:00"
+						"dateAndTimeString" : "2021-12-12T09:33:29.321018+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
 					"uidString" : "AnqJ48SDDQCLH7+kA1ARMQ=="
 				},
-				"code" : "export := '/Users/rgb/export' asFileReference.\rdictionary := STON fromString: export."
+				"code" : "export := '/Users/rgb/data/export.json' asFileReference.\rdictionary := STON fromString: export."
 			},
 			{
 				"__type" : "textSnippet",
