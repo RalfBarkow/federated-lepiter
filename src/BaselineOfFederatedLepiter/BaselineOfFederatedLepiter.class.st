@@ -10,10 +10,7 @@ Class {
 { #category : #baseline }
 BaselineOfFederatedLepiter >> baseline: spec [
 	<baseline>
-
-	spec for: #'common' do: [
-		spec 
-			baseline: 'PharoEnhancements' with: [
-				spec repository: 'github://seandenigris/Pharo-Enhancements' ]
-			].
+	spec for: #common do: [
+		spec
+			package: 'FederatedLepiter' ]
 ]
