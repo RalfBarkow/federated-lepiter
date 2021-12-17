@@ -2,8 +2,8 @@
 I am a Federated Wiki page.
 "
 Class {
-	#name : 'FedWikiPage',
-	#superclass : 'Object',
+	#name : #FedWikiPage,
+	#superclass : #Object,
 	#instVars : [
 		'title',
 		'story',
@@ -13,7 +13,7 @@ Class {
 	#category : 'FederatedLepiter'
 }
 
-{ #category : 'accessing' }
+{ #category : #accessing }
 FedWikiPage >> dataDictionary [
 
 	| dataUrl |
@@ -25,19 +25,19 @@ FedWikiPage >> dataDictionary [
 
 ]
 
-{ #category : 'accessing' }
+{ #category : #accessing }
 FedWikiPage >> host [
 
 ^ self url host
 ]
 
-{ #category : 'accessing' }
+{ #category : #accessing }
 FedWikiPage >> isView [
 
 ^ self url firstPathSegment = 'view'
 ]
 
-{ #category : 'accessing' }
+{ #category : #accessing }
 FedWikiPage >> jsonData [
 
 	| dataUrl |
@@ -48,13 +48,13 @@ FedWikiPage >> jsonData [
 
 ]
 
-{ #category : 'accessing' }
+{ #category : #accessing }
 FedWikiPage >> scheme [
 
 	^ self url scheme
 ]
 
-{ #category : 'accessing' }
+{ #category : #accessing }
 FedWikiPage >> titleSegmentUrl [
 
 	self isView ifFalse: [
@@ -63,13 +63,13 @@ FedWikiPage >> titleSegmentUrl [
 	^ self url segments last.
 ]
 
-{ #category : 'accessing' }
+{ #category : #accessing }
 FedWikiPage >> url [
 
 ^ url
 ]
 
-{ #category : 'accessing' }
+{ #category : #accessing }
 FedWikiPage >> url: aString [
 
 url  := aString asZnUrl
