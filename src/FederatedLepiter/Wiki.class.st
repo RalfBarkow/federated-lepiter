@@ -8,6 +8,14 @@ Class {
 }
 
 { #category : #accessing }
+Wiki >> gtRawDataFor: aView [
+	<gtView>
+	^ aView list
+		title: 'Raw Data';
+		items: [ rawData associations]
+]
+
+{ #category : #accessing }
 Wiki >> rawData: dictionary [ 
 	rawData := dictionary
 	
