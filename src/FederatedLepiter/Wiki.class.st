@@ -20,3 +20,8 @@ Wiki >> rawData: dictionary [
 	rawData := dictionary
 	
 ]
+
+{ #category : #accessing }
+Wiki >> slugs [
+	^ rawData collect: [:dictionary | Slug new rawData: dictionary]
+]
