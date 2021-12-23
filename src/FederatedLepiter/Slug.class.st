@@ -2,7 +2,6 @@ Class {
 	#name : #Slug,
 	#superclass : #Object,
 	#instVars : [
-		'rawdata',
 		'rawData'
 	],
 	#category : #FederatedLepiter
