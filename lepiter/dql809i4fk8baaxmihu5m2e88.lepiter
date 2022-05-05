@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2021-09-02T06:01:22.794679+02:00"
+						"dateAndTimeString" : "2022-05-04T09:32:25.428803+02:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,44 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "A [[Fedwik]]i page is a mobile-phone sized column of authored hypertext, that can be displayed side-by-side in a [[Fedwiki Lineup]] to form a dynamically constructed [[Web Page]]."
+				"string" : "A [[Fedwiki]] page is a mobile-phone sized column of authored hypertext, that can be displayed side-by-side in a [[Fedwiki Lineup]] to form a dynamically constructed [[Web Page]]."
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-05-04T09:33:26.22797+02:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2022-05-04T09:33:34.415341+02:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "a3yxYIyaDQCF7ybLAov/UA=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "See also [[FedWikiPage]]."
 			}
 		]
 	},

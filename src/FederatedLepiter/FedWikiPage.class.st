@@ -8,10 +8,22 @@ Class {
 		'title',
 		'story',
 		'importJournal',
-		'url'
+		'url',
+		'rawData'
 	],
-	#category : 'FederatedLepiter'
+	#classInstVars : [
+		'aDictionary',
+		'rawData'
+	],
+	#category : #FederatedLepiter
 }
+
+{ #category : #accessing }
+FedWikiPage class >> journal [ 
+	^ ZnClient new 
+	url: 'http://localhost:3000/merge-logic.json', (rawData at:#journal) asString;
+	get.
+]
 
 { #category : #accessing }
 FedWikiPage >> dataDictionary [
@@ -23,6 +35,22 @@ FedWikiPage >> dataDictionary [
 	dataUrl := self scheme , '://', self host, '/', self titleSegmentUrl, '.json'.
 	^ STONJSON fromString: dataUrl asUrl retrieveContents
 
+]
+
+{ #category : #accessing }
+FedWikiPage >> gtDetailsFor: aView [
+	<gtView>
+	^ aView columnedList
+		title: 'Details';
+		items: [
+			{
+				'Journal' -> self journal.
+				'Title' -> self title.
+				'Story' -> self story.
+			}
+		];
+		column: 'Key' text: [:association | association key];
+		column: 'Value' text:  [:association | association value]
 ]
 
 { #category : #accessing }
@@ -38,6 +66,12 @@ FedWikiPage >> isView [
 ]
 
 { #category : #accessing }
+FedWikiPage >> journal [
+	^ Journal new rawData: (rawData at: #journal).
+
+]
+
+{ #category : #accessing }
 FedWikiPage >> jsonData [
 
 	| dataUrl |
@@ -49,9 +83,24 @@ FedWikiPage >> jsonData [
 ]
 
 { #category : #accessing }
+FedWikiPage >> rawData: pageDict [ 
+	rawData := pageDict
+]
+
+{ #category : #accessing }
 FedWikiPage >> scheme [
 
 	^ self url scheme
+]
+
+{ #category : #accessing }
+FedWikiPage >> story [
+	^ (rawData at: #story)
+]
+
+{ #category : #accessing }
+FedWikiPage >> title [
+	^ (rawData at: #title)
 ]
 
 { #category : #accessing }
