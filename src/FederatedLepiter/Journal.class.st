@@ -28,6 +28,25 @@ Class {
 }
 
 { #category : #accessing }
+Journal >> create [
+	"creates a `journal` instance with `title` and `story`"
+	^ NeoJSONObject fromString:'{
+  "title": "Computation",
+  "story": [],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Computation",
+        "story": []
+      },
+      "date": 1651225765617
+    }
+  ]
+}'
+]
+
+{ #category : #accessing }
 Journal >> getDetailsFor: aView [
 	<gtView>
 	^ aView columnedList
