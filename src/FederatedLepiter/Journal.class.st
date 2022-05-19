@@ -1,3 +1,23 @@
+"
+a `Journal` class creates a `journal` instance with `title` and `story`,
+
+{
+  ""title"": ""Computation"",
+  ""story"": [],
+  ""journal"": [
+    {
+      ""type"": ""create"",
+      ""item"": {
+        ""title"": ""Computation"",
+        ""story"": []
+      },
+      ""date"": 1651225765617
+    }
+  ]
+}
+
+and the `title` and `story` are copied up one level so that they are stored before the `journal` and evolve at the same level as the `journal` instance. 
+"
 Class {
 	#name : #Journal,
 	#superclass : #Object,
