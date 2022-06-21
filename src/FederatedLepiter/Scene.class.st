@@ -13,14 +13,27 @@ Class {
 }
 
 { #category : #accessing }
-Scene >> gtRawDataFor: aView [
-	<gtView>
-	^ aView list
-		title: 'Raw Data';
-		items: [ rawData]
+Scene >> data [
+	^ self rawData at: #data
 ]
 
 { #category : #accessing }
-Scene >> rawData: array [
-	rawData := array 
+Scene >> gtRawDataFor: aView [
+	<gtView>
+	self rawData ifNil: [ ^ aView empty ].
+	
+	^ aView forward
+		title: 'Raw Data';
+		object: [ self rawData];
+		view: #gtItemsFor:
+]
+
+{ #category : #accessing }
+Scene >> rawData [
+	^ rawData
+]
+
+{ #category : #accessing }
+Scene >> rawData: dictionary [
+	rawData := dictionary 
 ]
