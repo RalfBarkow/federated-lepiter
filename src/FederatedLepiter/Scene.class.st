@@ -1,3 +1,8 @@
+"
+Scene.vrse File
+
+.vrse file is like .st file; it is a file out format. .st file had !s and methodFor: and those stuff that are not meant for human to write. [wiki](https://wiki.ralfbarkow.ch/view/scenevrse-file)
+"
 Class {
 	#name : #Scene,
 	#superclass : #Object,
